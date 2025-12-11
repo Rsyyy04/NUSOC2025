@@ -87,3 +87,4 @@ void ble_central_register_connect_handler(ble_connect_evt_handler_t handler);
 void ble_central_register_disconnect_handler(ble_disconnect_evt_handler_t handler);
 
 #endif // BLE_CENTRAL_H
+

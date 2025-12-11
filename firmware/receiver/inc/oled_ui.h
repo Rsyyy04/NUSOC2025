@@ -71,3 +71,4 @@ void oled_ui_clear(void);
 void oled_ui_refresh(void);
 
 #endif // OLED_UI_H
+

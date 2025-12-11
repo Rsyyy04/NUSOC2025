@@ -49,3 +49,4 @@ bool is_connected(void);
 uint16_t get_conn_handle(void);
 
 #endif // BLE_PERIPHERAL_H
+

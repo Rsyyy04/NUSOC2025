@@ -43,3 +43,4 @@ void alarm_start_monitoring(void);
 void alarm_stop_monitoring(void);
 
 #endif // ALARM_H
+

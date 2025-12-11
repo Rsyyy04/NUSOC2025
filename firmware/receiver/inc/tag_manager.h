@@ -116,3 +116,4 @@ void tag_manager_set_rssi_threshold(uint8_t id, int8_t threshold);
 void tag_manager_rename(uint8_t id, const char *name);
 
 #endif // TAG_MANAGER_H
+

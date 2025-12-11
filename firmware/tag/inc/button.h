@@ -40,3 +40,4 @@ extern void on_single_click(void);
 extern void on_double_click(void);
 
 #endif // BUTTON_H
+

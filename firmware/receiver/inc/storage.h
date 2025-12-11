@@ -67,3 +67,4 @@ int storage_clear_disconnect_logs(void);
 int storage_erase_all(void);
 
 #endif // STORAGE_H
+

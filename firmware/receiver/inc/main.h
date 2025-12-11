@@ -26,3 +26,4 @@
 bool is_system_initialized(void);
 
 #endif // MAIN_H
+

@@ -44,3 +44,4 @@ void buzzer_stop(void);
 void buzzer_set_frequency(uint16_t frequency);
 
 #endif // BUZZER_H
+

@@ -5,8 +5,8 @@ PROJECT_NAME := antiloss_tag
 TARGETS      := $(PROJECT_NAME)
 OUTPUT_DIRECTORY := _build
 
-# nRF5 SDK路径（需要根据实际情况修改）
-SDK_ROOT := ../../../nRF5_SDK_17.1.0_ddde560
+# nRF5 SDK路径（可通过环境变量NRF5_SDK_ROOT覆盖）
+SDK_ROOT ?= ../../../nRF5_SDK_17.1.0_ddde560
 PROJ_DIR := .
 
 # 源文件

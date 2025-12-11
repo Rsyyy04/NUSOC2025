@@ -30,3 +30,4 @@ void enter_low_power_mode(void);
 void gpio_low_power_config(void);
 
 #endif // POWER_MANAGEMENT_H
+

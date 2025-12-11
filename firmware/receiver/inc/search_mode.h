@@ -39,3 +39,4 @@ bool search_mode_is_active(void);
 uint8_t search_mode_get_target(void);
 
 #endif // SEARCH_MODE_H
+
