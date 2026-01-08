@@ -1,0 +1,82 @@
+# Build directories
+_build/
+build/
+*.o
+*.d
+*.a
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# IDE specific files
+.vscode/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.swp
+*~
+
+# nRF5 SDK
+nRF5_SDK_*/
+.nrfconnect/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+pip-log.txt
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Test output
+test_results/
+coverage/
+
+# Documentation build
+docs/_build/
+docs/.doctrees/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# JLink
+JLink*/
+*.jlink
+
+# Segger
+ses/
+*.emSession
+*.emProject~
+
+# KiCad backup
+*.bak
+*.kicad_pcb-bak
+*.sch-bak
+*-cache.lib
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
+# PCB manufacturing
+gerber/
+*.zip
+
+# Misc
+.cache/
